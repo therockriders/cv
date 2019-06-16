@@ -1,0 +1,16 @@
+image: ruby:2.5.1
+
+variables:
+  JEKYLL_ENV: production
+
+pages:
+  script:
+  - ruby -v
+  - bundle -v
+  - bundle install
+  - bundle exec jekyll build -d public
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
