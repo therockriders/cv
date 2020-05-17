@@ -1,0 +1,11 @@
+{% include header.html %}
+<!-- Content -->
+<!-- First Section -->
+<section id="experience" class="main">
+    <span class="image main"><img src="{{ site.baseurl }}/{{page.image}}" alt="Cover image"></span>
+    <header class="major">
+        <h2>{{ page.title }}, le <em>{{ page.date | date: "%d/%m/%Y" }}</em></h2>
+    </header>
+    {{ page.content }}
+</section>
+{% include footer.html %}
