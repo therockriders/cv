@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Julien Le Gall, Ingénieur logiciel
 ---
 <!-- Introduction -->
 <section id="intro" class="main">
@@ -89,7 +90,7 @@ layout: home
 </section>
 <section id="competences" class="main special">
     <header class="major">
-        <h2>Competences</h2>
+        <h2>Compétences</h2>
     </header>
     <p>Les sujets sur lequels j'ai pu travaillés sont nombreux, les outils, langages, frameworks sont que j'ai pu utilisés sont aussi nombreux, je met donc en avant les compétences que j'ai envie de connaitre plus en profondeur et que j'ai récemment pratiquées :</p>
 
