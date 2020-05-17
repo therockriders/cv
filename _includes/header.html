@@ -20,13 +20,14 @@
 
             <!-- Header -->
             <header id="header" class="alt">
-                <span class="logo">
+                <a href="{{ site.baseurl }}/"><span class="logo">
                     <span class="icon solid major style1 fa-code"></span>
-                </span>
+                </span></a>
                 <h1>Julien Le Gall, Ingénieur logiciel</h1>
                 <p>Développement web client et serveur, Angular et Symfony.</p>
             </header>
 
+            {% if include.nav %}
             <!-- Nav -->
             <nav id="nav">
                 <ul>
@@ -37,6 +38,7 @@
                     <li><a href="#centresinterets">Centres d'intérêts</a></li>
                 </ul>
             </nav>
+            {% endif %}
 
             <!-- Main -->
             <div id="main">
