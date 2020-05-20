@@ -28,7 +28,7 @@ title: Julien Le Gall, Ingénieur logiciel
         <h2>Expérience</h2>
     </header>
     <h3><strong>Telecom Monetique</strong> - <em>Février 2019</em> à <em>aujourd'hui</em></h3>
-    <p>Telecom Monetique est une petite entreprise (3 salariées) qui fournit de la téléphonie sur IP et sa connectivité ainsi que des terminaux bancaires. Je suis intégré dans cette entreprise en tant qu'ingénieur logiciel pour optimiser les processus internes notamment en automatisant la facturation et fournir des services en relation avec la téléphonie à nos clients pour ajouter de l aplus value dans nos offres, mes réalisations sont les suivantes :</p>
+    <p>Telecom Monetique est une petite entreprise (3 salariées) qui fournit de la téléphonie sur IP et sa connectivité ainsi que des terminaux bancaires. Je suis intégré dans cette entreprise en tant qu'ingénieur logiciel pour optimiser les processus internes notamment en automatisant la facturation et fournir des services en relation avec la téléphonie à nos clients pour ajouter de la plus value dans nos offres, mes réalisations sont les suivantes :</p>
 
     <ul>
         <li>Mise en place d'un outil interne de gestion automatisant la facturation : récupération d'informations de nos prestataires via une API, configuration d'un forfait pour chacun de nos clients, génération automatique des factures sur notre outil spécifique à la facturation, envoi des factures par mails à nos clients et sur la plateforme <a href="https://chorus-pro.gouv.fr">Chorus Pro</a> pour les organismes de l'état via <a href="https://communaute.chorus-pro.gouv.fr/documentation/api/">l'API</a>. Les technologies utilisées sont les suivantes : application cliente en <strong>AngularJS</strong> qui intéragit avec une API en <strong>Symfony 3</strong></li>
@@ -159,7 +159,7 @@ title: Julien Le Gall, Ingénieur logiciel
         <h2>Centres d'intérêts</h2>
     </header>
     <ul>
-        <li>Projet Cloud/Auto-hébergement écoresponsable TODO</li>
+        <li>Projet Cloud/Auto-hébergement écoresponsable</li>
         <li>Stages et compétitions de danse (<a href="https://www.youtube.com/watch?v=y9fbBrX_rNc">West coast swing</a>) en France et à l’étranger (Royaume-Uni, Etats-Unis)</li>
         <li>Participation à <a href="https://www.paris-web.fr/">Paris-Web</a> 2009, 2013, 2015, 2018, 2019</li>
         <li>Organisation de compétitions VTT, de raids multisports et de trails</li>
