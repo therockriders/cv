@@ -159,7 +159,7 @@ title: Julien Le Gall, Ingénieur logiciel
         <h2>Centres d'intérêts</h2>
     </header>
     <ul>
-        <li><a href="{% post_url 2020-05-17-cloud-ecoresponsable %}">Projet Cloud/Auto-hébergement écoresponsable</a> TODO</li>
+        <li>Projet Cloud/Auto-hébergement écoresponsable TODO</li>
         <li>Stages et compétitions de danse (<a href="https://www.youtube.com/watch?v=y9fbBrX_rNc">West coast swing</a>) en France et à l’étranger (Royaume-Uni, Etats-Unis)</li>
         <li>Participation à <a href="https://www.paris-web.fr/">Paris-Web</a> 2009, 2013, 2015, 2018, 2019</li>
         <li>Organisation de compétitions VTT, de raids multisports et de trails</li>
