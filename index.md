@@ -27,7 +27,7 @@ title: Julien Le Gall, Ingénieur logiciel
     <header class="major">
         <h2>Expérience</h2>
     </header>
-    <h3><strong>Telecom Monetique</strong> - <em>Février 2019</em> à <em>aujourd'hui</em></h3>
+    <h3><strong>Telecom Monetique</strong> - <em>Février 2019</em> à <em>Février 2021</em></h3>
     <p>Telecom Monetique est une petite entreprise (3 salariées) qui fournit de la téléphonie sur IP et sa connectivité ainsi que des terminaux bancaires. Je suis intégré dans cette entreprise en tant qu'ingénieur logiciel pour optimiser les processus internes notamment en automatisant la facturation et réaliser des services pour nos clients pour permettre une convergence entre notre téléphonie et leur informatique et ajouter une plus value dans nos offres, mes réalisations sont les suivantes :</p>
 
     <ul>
@@ -46,7 +46,7 @@ title: Julien Le Gall, Ingénieur logiciel
             Projet <strong>Orange Football Club</strong>, en prestation chez Orange Labs, de <em>décembre 2013</em> à <em>mai 2014</em> : développement de services REST (<strong>Zend Framework 2</strong>)  pour gérer des compétitions de football, des équipes, des matchs, des résultats et des joueurs, utilisés dans une application Android distribuée dans les pays émergeants de la zone Afrique - Moyen Orient - Asie et <strong>support</strong> aux développeurs Android 
         </li>
         <li>
-            Projet <strong>Orthos</strong> pour Thales Communications et Sécurité, d'<em>octobre 2013</em> à <em>décembre 2013</em> : développement d'un <strong>portail web</strong></portail> de gestion de crise (<strong>HTML 5</strong>, <strong>CSS 3</strong>, <strong>JQuery</strong>, <strong>Leaflet</strong>, <strong>Bootstrap</strong>), visualisation de besoins et de ressources sur une carte, création de besoins et <strong>application native Android</strong> pour les propriétaires de ressources permettant l'ajout de ressource, visualisation de statistiques sur un tableau de bord, notifications avec acceptation ou refus
+            Projet <strong>Orthos</strong> pour Thales Communications et Sécurité, d'<em>octobre 2013</em> à <em>décembre 2013</em> : développement d'un <strong>portail web</strong> de gestion de crise (<strong>HTML 5</strong>, <strong>CSS 3</strong>, <strong>JQuery</strong>, <strong>Leaflet</strong>, <strong>Bootstrap</strong>), visualisation de besoins et de ressources sur une carte, création de besoins et <strong>application native Android</strong> pour les propriétaires de ressources permettant l'ajout de ressource, visualisation de statistiques sur un tableau de bord, notifications avec acceptation ou refus
         </li>
         <li>
             Projet <strong>NOC/SOC</strong> pour Thales Communications et Sécurité, de <em>juin 2013</em> à <em>septembre 2013</em> : nouvelles fonctionnalités et corrections d'anomalies sur un démonstrateur web (<strong>HTML 5</strong>, <strong>CSS 3</strong>, <strong>JQuery</strong>) de logiciels de cyber sécurité développés par Thales Sécurité avec 2 versions disponibles, sur 3 écrans pour les showrooms, en standalone pour les commerciaux en mobilité
@@ -55,7 +55,7 @@ title: Julien Le Gall, Ingénieur logiciel
             Projet <strong>Newbox / Application Shop</strong>, en prestation chez Orange Labs, de <em>novembre 2012</em> à <em>juin 2013</em> : <strong>support</strong> aux partenaires sur le développement d'applications HTML 5 (<strong>Apis audio</strong>, <strong>vidéo</strong>, <strong>webSQL</strong>, <strong>local storage</strong>, <strong>indexedDb</strong>)et <strong>tests</strong> sur le nouveau décodeur d'Orange avec notamment l'utilisation de <strong>Wireshark</strong> 
         </li>
         <li>
-            Projet <strong>TEVOLUTION</strong>, en prestation chez Technicolor, de <em>juillet 2012 à octobre 2012</em> </strong> : projet de télévision OTT (Over The Top) sur lequel j'ai participé à l'intégration du logiciel client sur le décodeur et à la validation de la bonne utilisation des <strong>apis Smartvision</strong> avec l'utilisation d'outils de gestion d'anomalies (<strong>Test tracker</strong> et <strong>Dev tracker</strong>).
+            Projet <strong>TEVOLUTION</strong>, en prestation chez Technicolor, de <em>juillet 2012 à octobre 2012</em> : projet de télévision OTT (Over The Top) sur lequel j'ai participé à l'intégration du logiciel client sur le décodeur et à la validation de la bonne utilisation des <strong>apis Smartvision</strong> avec l'utilisation d'outils de gestion d'anomalies (<strong>Test tracker</strong> et <strong>Dev tracker</strong>).
         </li>
     </ul>
 
