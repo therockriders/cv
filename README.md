@@ -1,0 +1,1 @@
+Mon cv, réalisé avec le moteur de blog statique [Jekyll](https://jekyllrb.com/).
