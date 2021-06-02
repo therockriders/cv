@@ -17,4 +17,20 @@
     #post .main.image {
         display: none;
     }
+
+    #header.alt .logo {
+        display: none;
+    }
+    
+    #header.alt .logo img {
+        display: none;
+    }
+
+    #footer .copyright {
+        display: none;
+    }
+
+    ul.icons {
+        display: none;
+    }
 }
